@@ -1,2 +1,2 @@
 # curso-ia-aems
-Curso audiovisual sobre Inteligencia Arqificial 
+Curso audiovisual sobre Inteligencia Artificial 
